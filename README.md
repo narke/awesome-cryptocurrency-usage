@@ -4,8 +4,8 @@ Awesome cryptocurrency usage
 ## Contents
 
 - [Decentralized Exchanges](#decentralized-exchanges)
-- [Trading] (#trading)
-- [Funding] (#funding)
+- [Trading](#trading)
+- [Funding](#funding)
 
 
 ## Decentralized Exchanges
