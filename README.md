@@ -1,5 +1,7 @@
-Awesome cryptocurrency usage
-============================
+# Awesome cryptocurrency usage
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 
 ## Contents
 
@@ -16,14 +18,12 @@ Awesome cryptocurrency usage
 - https://kwenta.io
 
 
-Trading
--------
+## Trading
 
 * https://algotrading101.com/learn/openbb-guide OpenBB - An Introductory Guide to Investment Research - AlgoTrading101 Blog. OpenBB is an open-sourced investment research platform. It is used for performing investment research, optimizing portfolios, running data analysis and more
 
 
-Funding
--------
+## Funding
 
 
 Wallet | Cryptocurrency
